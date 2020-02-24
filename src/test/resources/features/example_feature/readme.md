@@ -2,7 +2,7 @@ Feature Description Page with working Ümläuts
 
 ÄÖÜß
 
-###A table
+### A table
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
